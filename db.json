@@ -1,22 +1,24 @@
-[
-  {
-    "question": "Vous pouvez me faire une petite remise ?",
-    "answer": "Bien sûr ! Pour faire une remise, je dois retirer quelque chose. Mon temps, mon expertise, ou les deux ? On choisit quoi ensemble ?"
-  },
-  {
-    "question": "C'est juste un petit truc à ajouter, ça prend 2 minutes.",
-    "answer": "Ah oui, le fameux 'truc de 2 minutes'... C'est comme repeindre la Tour Eiffel avec un rouleau à pâtisserie, non ?"
-  },
-  {
-    "question": "J'ai trouvé moins cher ailleurs.",
-    "answer": "Super ! J'espère que vous avez vérifié ce qui n'est pas inclus dans leur offre. Chez moi, le stress et les mauvaises surprises ne sont pas au menu."
-  },
-  {
-    "question": "On peut faire sans contrat, on se fait confiance ?",
-    "answer": "Absolument ! Mais pour des raisons de sécurité, on va quand même laisser le contrat s'occuper de la partie 'au cas où la confiance rencontrerait un lundi matin difficile'."
-  },
-  {
-    "question": "Je vous paierai quand ça portera ses fruits.",
-    "answer": "Excellente idée ! Je vais dire ça à mon propriétaire et à mon boulanger. Ma facture de loyer attend ses 'fruits' avec impatience."
-  }
-]
+{
+  "posts": [
+    {
+      "question": "Vous pouvez me faire une petite remise ?",
+      "answer": "Bien sûr ! Pour faire une remise, je dois retirer quelque chose. Mon temps, mon expertise, ou les deux ? On choisit quoi ensemble ?"
+    },
+    {
+      "question": "C'est juste un petit truc à ajouter, ça prend 2 minutes.",
+      "answer": "Ah oui, le fameux 'truc de 2 minutes'... C'est comme repeindre la Tour Eiffel avec un rouleau à pâtisserie, non ?"
+    },
+    {
+      "question": "J'ai trouvé moins cher ailleurs.",
+      "answer": "Super ! J'espère que vous avez vérifié ce qui n'est pas inclus dans leur offre. Chez moi, le stress et les mauvaises surprises ne sont pas au menu."
+    },
+    {
+      "question": "On peut faire sans contrat, on se fait confiance ?",
+      "answer": "Absolument ! Mais pour des raisons de sécurité, on va quand même laisser le contrat s'occuper de la partie 'au cas où la confiance rencontrerait un lundi matin difficile'."
+    },
+    {
+      "question": "Je vous paierai quand ça portera ses fruits.",
+      "answer": "Excellente idée ! Je vais dire ça à mon propriétaire et à mon boulanger. Ma facture de loyer attend ses 'fruits' avec impatience."
+    }
+  ]
+}
