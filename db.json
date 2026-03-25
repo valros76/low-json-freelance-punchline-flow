@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Vous pouvez me faire une petite remise ?",
+    "answer": "Bien sûr ! Pour faire une remise, je dois retirer quelque chose. Mon temps, mon expertise, ou les deux ? On choisit quoi ensemble ?"
+  },
+  {
+    "question": "C'est juste un petit truc à ajouter, ça prend 2 minutes.",
+    "answer": "Ah oui, le fameux 'truc de 2 minutes'... C'est comme repeindre la Tour Eiffel avec un rouleau à pâtisserie, non ?"
+  },
+  {
+    "question": "J'ai trouvé moins cher ailleurs.",
+    "answer": "Super ! J'espère que vous avez vérifié ce qui n'est pas inclus dans leur offre. Chez moi, le stress et les mauvaises surprises ne sont pas au menu."
+  },
+  {
+    "question": "On peut faire sans contrat, on se fait confiance ?",
+    "answer": "Absolument ! Mais pour des raisons de sécurité, on va quand même laisser le contrat s'occuper de la partie 'au cas où la confiance rencontrerait un lundi matin difficile'."
+  },
+  {
+    "question": "Je vous paierai quand ça portera ses fruits.",
+    "answer": "Excellente idée ! Je vais dire ça à mon propriétaire et à mon boulanger. Ma facture de loyer attend ses 'fruits' avec impatience."
+  },
+  {
+    "question": "Je vous donne de la visibilité !",
+    "answer": "Merci beaucoup ! Ma banque accepte les 'visibilités' en paiement ou on reste sur les virements ?"
+  },
+  {
+    "question": "Je n'ai pas de budget pour ça en ce moment.",
+    "answer": "Je comprends. Votre projet est donc en mode 'pause budgétaire'. Je le mets au frais et on le réchauffe quand le budget dégèle ?"
+  },
+  {
+    "question": "On peut négocier le prix ?",
+    "answer": "On peut toujours parler ! Mais mon prix est déjà un acte d'amour envers mon travail. Négocier, c'est comme demander si on peut aimer un peu moins fort, non ?"
+  },
+  {
+    "question": "Je vous envoie plein de clients après !",
+    "answer": "Génial ! Pour que ce système fonctionne, il faut que le premier client paie pour montrer l'exemple. C'est vous, le premier, n'est-ce pas ?"
+  },
+  {
+    "question": "Mon cousin/voisin/neveu s'y connaît et il dit que...",
+    "answer": "Votre cousin est adorable ! A-t-il aussi une assurance pro et 10 ans d'expérience ? Juste pour comparer les notes..."
+  },
+  {
+    "question": "On peut décaler la date de paiement ?",
+    "answer": "On peut décaler le paiement, oui. Mais mes charges, elles, ne connaissent pas le décalage. Elles sont très ponctuelles, malheureusement."
+  },
+  {
+    "question": "Je veux quelque chose d'unique, mais qui ressemble à ce que fait mon concurrent.",
+    "answer": "Donc, vous voulez être unique comme tout le monde ? On essaie de trouver un compromis ou on investit dans un dictionnaire des oxymores ?"
+  },
+  {
+    "question": "Je vous laisse carte blanche, mais en fait, je sais exactement ce que je veux.",
+    "answer": "Parfait ! On joue à 'Devine ce que j'ai en tête' ou on pose les bases claires dès maintenant pour gagner du temps ?"
+  },
+  {
+    "question": "J'ai changé d'avis sur toute la direction du projet.",
+    "answer": "Pas de souci ! Mon tarif horaire inclut une thérapie de couple avec votre projet, mais pas la construction d'un labyrinthe temporel. Chaque virage a un prix."
+  },
+  {
+    "question": "C'est pour une bonne cause.",
+    "answer": "Les bonnes causes sont importantes ! La mienne, c'est de pouvoir manger à la fin du mois. On trouve un arrangement qui nourrit nos deux bonnes causes ?"
+  },
+  {
+    "question": "Ça n'a pas l'air très compliqué votre travail.",
+    "answer": "Merci ! C'est le résultat d'années d'entraînement pour que ça paraisse facile. C'est comme un canard sur l'eau : l'air calme au-dessus, la machine à ramer sous la surface."
+  },
+  {
+    "question": "Je vous fais confiance à 100%, mais je vais quand même vérifier chaque détail.",
+    "answer": "Votre confiance me touche ! Pour les vérifications, on prévoit des points réguliers ou vous préférez le système de la 'surprise organisée' ?"
+  },
+  {
+    "question": "J'ai besoin de ça pour hier.",
+    "answer": "J'adorerais, mais ma machine à voyager dans le temps est en révision. On s'adapte au planning terrestre, ou je tente de bricoler un truc avec un Delorean ?"
+  },
+  {
+    "question": "Mon budget est limité.",
+    "answer": "Mon offre s'adapte à différentes échelles. On fait du sur-mesure haute couture ou du prêt-à-porter efficace ? Votre budget dicte la garde-robe du projet."
+  },
+  {
+    "question": "Je vous donne une note et un commentaire si vous faites un effort.",
+    "answer": "Excellente motivation ! Je suis déjà noté sur la qualité de mon travail, pas sur ma capacité à faire des miracles budgétaires. Mais merci pour l'idée !"
+  },
+  {
+    "question": "Vous pouvez juste m'envoyer les fichiers sources ?",
+    "answer": "Donner les fichiers sources, c'est comme donner la recette secrète de Coca-Cola. Ça fait partie du mystère... et du prix du service complet qui inclut le savoir-faire."
+  },
+  {
+    "question": "Je ne suis pas expert, mais je pense que...",
+    "answer": "Votre avis est précieux ! On le note dans la colonne 'intuition' et on compare avec la colonne 'expertise professionnelle' ?"
+  },
+  {
+    "question": "J'ai besoin que ce soit parfait.",
+    "answer": "Parfait ! Mon tarif inclut une dose d'exigence professionnelle. La perfection absolue, elle, nécessite souvent un budget 'unicorne' en supplément."
+  },
+  {
+    "question": "J'ai vu un tuto qui explique comment faire en 5 minutes.",
+    "answer": "Magnifique ! Si le tuto couvre aussi les années d'expérience, l'investissement matériel, l'assurance et les impôts, je suis preneur du lien !"
+  },
+  {
+    "question": "On peut se voir pour discuter de tous les petits détails, ça ne prendra pas longtemps.",
+    "answer": "Avec plaisir ! Chaque minute passée ensemble fait partie du temps facturable. Le compteur tourne, mais le café est offert !"
+  }
+]
